@@ -6,7 +6,8 @@
 - specifying a little more in infrastructure code
 - trying to diversify my backend knowledge
 
-:phone: If by any means you feel like contacting me for some open project, doubts or just talking, you can reach me at:
+:phone: Contact: 
+If by any means you feel like contacting me for some open project, doubts or just talking, you can reach me at:
 [Linked In](https://www.linkedin.com/in/magalhaes-andre/)
 
 [![André's Github Stats](https://github-readme-stats.vercel.app/api?username=magalhaes-andre)](https://github.com/anuraghazra/github-readme-stats)
