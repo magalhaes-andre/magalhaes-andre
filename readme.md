@@ -1,9 +1,9 @@
 :wave:  Hi there! My name is André and i am a software engineer. Admired by clever solutions i'm currently aiming to learn a bit of everything and deep dive on my daily work needs.
 
 :notebook:  What am i learning? (as of 10/12/2022 🗓️)
-- front end development with React
-- cloud with AWS
-- algorithms with Python
+- 🎯Front End development with React
+- 🎯Cloud with AWS
+- 🎯Algorithms with Python
 
 :phone:  Contact: </br>
 
