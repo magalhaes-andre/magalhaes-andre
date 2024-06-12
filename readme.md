@@ -1,4 +1,4 @@
-:wave:  Hi there! My name is André and i am a software engineer. Admired by clever solutions, i'm currently aiming to learn a bit of everything and deep dive on my daily work needs.
+:wave:  Hi there! Admired by clever solutions, i'm currently aiming to learn a bit of everything and deep dive on my daily work needs.
 
 📔 What am i learning? (as of 07/12/2023 🗓️)
 - 🎯Golang
